@@ -1,0 +1,1 @@
+insert into ITEM (id, name) values(1, 'test');
